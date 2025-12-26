@@ -12,6 +12,7 @@ AI Chatbot built using HTML, CSS, and JavaScript. Features an interactive chat i
 
 
 ## 🚀 Live Demo
+To activate the chatbot, please upload your Google Gemini API key.
 https://aerioo5.github.io/AI-Chatbot/
 
 
