@@ -6,7 +6,7 @@ let image = document.querySelector("#image img")
 let imageinput = document.querySelector("#image input")
 
 // 🔑 PUT YOUR REAL API KEY HERE
-const API_KEY = "AIzaSyD6zHknMex7OFHOvFm9aG9dJBYEqY4qKek";
+const API_KEY = "Put_your_APIkey";
 
 // ✅ CORRECT ENDPOINT (v1, not v1beta)
 
@@ -153,3 +153,4 @@ imageinput.addEventListener("change", () => {
 imagebtn.addEventListener("click", () => {
   imagebtn.querySelector("input").click()
 })
+
