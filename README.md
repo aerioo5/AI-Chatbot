@@ -12,7 +12,7 @@ AI Chatbot built using HTML, CSS, and JavaScript. Features an interactive chat i
 
 
 ## 🚀 Live Demo
-
+https://aerioo5.github.io/AI-Chatbot/
 
 
 ## 🛠️ Technologies Used
